@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Kelly Iko and Eric Koreen",
+            "title": "Rockets reach agreement to sign Fred VanVleet, per sources: Why Houston made the move - The Athletic",
+            "description": "The 29-year-old averaged 19.3 points, 4.1 rebounds and a career-high 7.2 assists to go along with 1.8 steals over 69 games last season.",
+            "url": "https://theathletic.com/4657327/2023/06/30/fred-vanvleet-rockets-nba-free-agency/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/06/30205939/USATSI_20419336-1-scaled.jpg",
+            "publishedAt": "2023-07-01T09:21:36Z",
+            "content": "The Houston Rockets have reached an agreement to sign point guard Fred VanVleet, team sources confirmed to The Athletic on Friday. Heres what you need to know:\r\n<ul><li>The deal is a three-year, $130… [+3465 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Hollywood actors' union and studios extend talks - BBC News - BBC News",
+            "description": "The Hollywood actors' union and major film studios have agreed to keep working and continue talks until 12th July.This is an effort to prevent strike action....",
+            "url": "https://www.youtube.com/watch?v=rBnh-WyxXYk",
+            "urlToImage": "https://i.ytimg.com/vi/rBnh-WyxXYk/maxresdefault.jpg",
+            "publishedAt": "2023-07-01T08:49:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sana Noor Haq, Joshua Berlinger, Tara John, Barry Neild, Xiaofei Xu",
+            "title": "Protests are sweeping France. Here’s what you need to know - CNN",
+            "description": "France has been rocked by a wave of protests after a 17-year-old youth was shot by police near Paris on Tuesday, sparking a ban on demonstrations in some cities, travel warnings and reigniting a debate on over-policing in marginalized communities.",
+            "url": "https://www.cnn.com/2023/06/30/europe/nanterre-france-police-protests-explainer-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230630160055-02-nanterre-france-police-protests-explainer.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-01T08:32:00Z",
+            "content": "France has been rocked by a wave of protests after a 17-year-old youth was shot by police near Paris on Tuesday, sparking a ban on demonstrations in some cities, travel warnings and reigniting a deba… [+6743 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sarasota Herald-Tribune"
+            },
+            "author": "Melissa Pérez-Carrillo",
+            "title": "Sarasota, Florida, residents react to malaria outbreak - Sarasota Herald-Tribune",
+            "description": "A total of four cases in the county have been confirmed by authorities.",
+            "url": "https://www.heraldtribune.com/story/news/local/sarasota/2023/06/30/sarasota-florida-residents-react-to-malaria-outbreak/70368565007/",
+            "urlToImage": "https://www.heraldtribune.com/gcdn/presto/2022/04/14/NSHT/c15758a2-80f8-4fac-9b0d-a67febec8a93-SAR_17TH_STREET_PARK_005.jpg?crop=4367,2457,x504,y0&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-07-01T08:03:58Z",
+            "content": "Jean Abrams sat under the shade at the Newtown Estates Park, about two miles away from where the malaria cases occurred in Sarasota County. He had no idea there was even an outbreak. No one in his so… [+2924 chars]"
+        }
+    ]
+}
