@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewsJuction-website/static/css/main.abd64e84.css",
+    "main.js": "/NewsJuction-website/static/js/main.d4cac759.js",
+    "static/js/787.03c137aa.chunk.js": "/NewsJuction-website/static/js/787.03c137aa.chunk.js",
+    "index.html": "/NewsJuction-website/index.html",
+    "main.abd64e84.css.map": "/NewsJuction-website/static/css/main.abd64e84.css.map",
+    "main.d4cac759.js.map": "/NewsJuction-website/static/js/main.d4cac759.js.map",
+    "787.03c137aa.chunk.js.map": "/NewsJuction-website/static/js/787.03c137aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.d4cac759.js"
+  ]
+}
